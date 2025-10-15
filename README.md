@@ -1,2 +1,2 @@
 # urama.github.io
-URAMA — plataforma artística cinematográfica y archivo visual. Explora proyectos audiovisuales, bitácoras y material documental. Sitio minimalista y oscuro pensado para exhibir obras, compartir procesos y establecer diálogo con la comunidad artística.
+URAMA — film art platform and visual archive. Explore audiovisual projects, blogs, and documentary material. A minimalist, dark website designed to showcase works, share processes, and establish dialogue with the artistic community.
